@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<p><em>My Name is Ayhem jamal From Libya <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+-:man: My Name is Ayhem jamal From Libya <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
--:star: I’m  Front End Web Developer  <br>
+-:star: I’m  Front End Web Developer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 -👯 I’m looking to collaborate whith everyone :smile:<br>
 
 
