@@ -5,7 +5,7 @@
 
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](htps://linkedin.com/in/ayhem-jamal-68038316b/#gh-light-mode-only)
+[![linkedin](./img/linkedin-light.svg)](htps://linkedin.com/in/ayhem-jamal-68038316b/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](htps://linkedin.com/in/ayhem-jamal-68038316b/#gh-dark-mode-only)
 
 <!--
