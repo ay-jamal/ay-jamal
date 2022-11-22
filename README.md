@@ -4,7 +4,9 @@
 -👯 I’m looking to collaborate whith everyone :smile:<br>
 
 
-[![Front End Mentorl Subscribers](facebook.com/photo/?fbid=474844827973490&set=a.474844811306825)][frontendmentor]
+### Connect with me:
+[![website](./img/linkedin-light.svg)](htps://linkedin.com/in/ayhem-jamal-68038316b/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](htps://linkedin.com/in/ayhem-jamal-68038316b/#gh-dark-mode-only)
 
 <!--
 **ay-jamal/ay-jamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
