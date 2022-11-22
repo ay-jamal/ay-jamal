@@ -1,4 +1,7 @@
 ### Hi there 👋
+:man: My Name is Ayhem jamal From Libya
+:star: I’m  Front End Web Developer
+
 
 <!--
 **ay-jamal/ay-jamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
