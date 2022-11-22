@@ -6,10 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayhem-jamal-68038316b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://seeklogo.com/images/F/frontend-mentor-logo-53570808B0-seeklogo.com.png" alt="" height="30" width="40" /></a>
-
 </p>
 
 <!--
