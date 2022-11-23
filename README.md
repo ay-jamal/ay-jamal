@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:man: My Name is Ayhem jamal From Libya <br>
+:man: My Name is Ayhem jamal <br>
 🌍  I'm based in Libya <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 :star: I’m  Front End Web Developer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
