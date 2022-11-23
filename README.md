@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 :man: My Name is Ayhem jamal <br>
-🌍  I'm based in Libya <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+🌍  I'm based in Libya <br>
 :star: I’m  Front End Web Developer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 👯 I’m looking to collaborate whith everyone :smile:<br>
 
